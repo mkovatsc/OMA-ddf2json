@@ -101,6 +101,7 @@
 									<artifactId>${project.artifactId}</artifactId>
 									<version>${project.version}</version>
 									<type>${project.packaging}</type>
+									<destFileName>ddf2json.jar</destFileName>
 								</artifactItem>
 							</artifactItems>
 							<outputDirectory>./</outputDirectory>
